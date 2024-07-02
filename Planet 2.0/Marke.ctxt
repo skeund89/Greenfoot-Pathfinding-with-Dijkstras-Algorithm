@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Marke
+comment1.params=
+comment1.target=Marke()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Die\ Anweisungen\ der\ Methode\ act\ werden\ ausgef\u00FChrt,\ wenn\ der\ Act-Button\n\ im\ Hauptfenster\ geklickt\ wird.\n
+comment3.params=x
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
