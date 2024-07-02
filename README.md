@@ -1,7 +1,7 @@
 # Rover Pathfinding with Dijkstra's Algorithm
 
 ## Introduction
-This repository contains a Java project for a rover simulation that demonstrates pathfinding using Dijkstra's algorithm. The rover navigates a grid-based world in Greenfoot, finding the shortest path from a starting point to an endpoint while mapping its surroundings.
+This project showcases the implementation of Dijkstra's Algorithm for pathfinding in the Greenfoot environment. Created during my computer science lessons at school, the project utilizes node and edge classes to simulate a rover navigating through a grid. The goal is to find the shortest path from a specified starting point to a target endpoint while avoiding obstacles.
 
 ## Table of Contents
 1. [Installation](#installation)
